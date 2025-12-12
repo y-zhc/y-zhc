@@ -1,16 +1,30 @@
-## Hi there 👋
+# About Me
+A short introduction about who you are, what you work on, and what interests you.
 
-<!--
-**y-zhc/y-zhc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Projects
+List or describe your main projects below.
 
-Here are some ideas to get you started:
+- Project Name  
+  Short description.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Project Name  
+  Short description.
+
+- Project Name  
+  Short description.
+
+# Skills
+Programming languages, frameworks, and tools you use.
+
+- Programming languages:
+- Frameworks / libraries:
+- Tools / platforms:
+
+# Current Work
+Summaries of what you are currently building, learning, or improving.
+
+# Goals
+Short-term and long-term objectives related to development or learning.
+
+# Contact
+Email, website, or social links.
