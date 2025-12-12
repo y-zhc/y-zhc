@@ -1,6 +1,11 @@
 # About Me
 A short introduction about who you are, what you work on, and what interests you.
 
+# Activity
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=y-zhc&theme=github-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=y-zhc&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=y-zhc&layout=compact&theme=dark)
+
 # Projects
 List or describe your main projects below.
 
@@ -31,5 +36,6 @@ Email, website, or social links.
 
 # Other
 Contact me through Discord.
+
 
 
